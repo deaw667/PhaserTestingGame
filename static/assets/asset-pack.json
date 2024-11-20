@@ -1,0 +1,82 @@
+{
+    "section1": {
+        "files": [
+            {
+                "url": "assets/FufuSuperDino.png",
+                "type": "image",
+                "key": "FufuSuperDino"
+            },
+            {
+                "url": "https://i.imgur.com/5xXqZ4U.png",
+                "key": "resetButton",
+                "type": "image"
+            },
+            {
+                "url": "https://i.imgur.com/BnPbkUE.png",
+                "key": "correct",
+                "type": "image"
+            },
+            {
+                "url": "https://i.imgur.com/Y3XuWHA.png",
+                "key": "incorrect",
+                "type": "image"
+            },
+            {
+                "url": "https://i.imgur.com/hGSe41k.png",
+                "key": "shape1",
+                "type": "image"
+            },
+            {
+                "url": "https://i.imgur.com/sJwTo1G.png",
+                "key": "shape2",
+                "type": "image"
+            },
+            {
+                "url": "https://i.imgur.com/5VDb8ol.png",
+                "key": "shape3",
+                "type": "image"
+            },
+            {
+                "url": "https://i.imgur.com/kJEkgh1.png",
+                "key": "target1",
+                "type": "image"
+            },
+            {
+                "url": "https://i.imgur.com/kTvT7LO.png",
+                "key": "target2",
+                "type": "image"
+            },
+            {
+                "url": "https://i.imgur.com/cxmU8fW.png",
+                "key": "target3",
+                "type": "image"
+            },
+            {
+                "url": "https://i.imgur.com/TAKnmAh.png",
+                "key": "target4",
+                "type": "image"
+            },
+            {
+                "url": "https://i.imgur.com/tyaczIi.png",
+                "key": "target2correct",
+                "type": "image"
+            },
+            {
+                "url": "https://i.imgur.com/Wg2rcgk.png",
+                "key": "target3correct",
+                "type": "image"
+            },
+            {
+                "url": "https://i.imgur.com/fqxj63B.png",
+                "key": "target4correct",
+                "type": "image"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2
+    }
+}
